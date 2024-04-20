@@ -1,6 +1,6 @@
 WELCOME TO PROJECT CIPHER
 
-This is a C language Project aimed at creating an encrypted data and also decrypting it. I created this program as an end-semester project in my First semester at NUST , Pakistan. 
+This is a C language Project aimed at encrypting and decrypting (.txt ) files , text or any image. I created this program as an end-semester project in my First semester at NUST , Pakistan. 
 
 Feel free to let me know how can I improve this program @smahmood.bscs23seecs@seecs.edu.pk 
 
