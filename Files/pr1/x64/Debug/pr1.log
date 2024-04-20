@@ -1,0 +1,126 @@
+﻿D:\VISUAL STUDIO 2022\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(531,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (pr1.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  Proj.c
+D:\PROJECT\Proj.c(40,25): warning C4473: 'scanf_s' : not enough arguments passed for format string
+  D:\PROJECT\Proj.c(40,25):
+  placeholders and their parameters expect 2 variadic arguments, but 1 were provided
+  D:\PROJECT\Proj.c(40,25):
+  the missing variadic argument 2 is required by format string '%s'
+  D:\PROJECT\Proj.c(40,25):
+  this argument is used as a buffer size
+  
+D:\PROJECT\Proj.c(66,25): warning C4473: 'scanf_s' : not enough arguments passed for format string
+  D:\PROJECT\Proj.c(66,25):
+  placeholders and their parameters expect 2 variadic arguments, but 1 were provided
+  D:\PROJECT\Proj.c(66,25):
+  the missing variadic argument 2 is required by format string '%s'
+  D:\PROJECT\Proj.c(66,25):
+  this argument is used as a buffer size
+  
+D:\PROJECT\Proj.c(92,25): warning C4473: 'scanf_s' : not enough arguments passed for format string
+  D:\PROJECT\Proj.c(92,25):
+  placeholders and their parameters expect 2 variadic arguments, but 1 were provided
+  D:\PROJECT\Proj.c(92,25):
+  the missing variadic argument 2 is required by format string '%s'
+  D:\PROJECT\Proj.c(92,25):
+  this argument is used as a buffer size
+  
+D:\PROJECT\Proj.c(49,25): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\PROJECT\Proj.c(52,25): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\PROJECT\Proj.c(55,25): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\PROJECT\Proj.c(59,25): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\PROJECT\Proj.c(75,25): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\PROJECT\Proj.c(78,25): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\PROJECT\Proj.c(81,25): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\PROJECT\Proj.c(85,25): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\PROJECT\Proj.c(101,25): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\PROJECT\Proj.c(104,25): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\PROJECT\Proj.c(107,25): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\PROJECT\Proj.c(111,25): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\PROJECT\Proj.c(171,18): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\PROJECT\Proj.c(217,13): warning C4473: 'scanf_s' : not enough arguments passed for format string
+  D:\PROJECT\Proj.c(217,13):
+  placeholders and their parameters expect 2 variadic arguments, but 1 were provided
+  D:\PROJECT\Proj.c(217,13):
+  the missing variadic argument 2 is required by format string '%c'
+  D:\PROJECT\Proj.c(217,13):
+  this argument is used as a buffer size
+  
+D:\PROJECT\Proj.c(247,13): warning C4473: 'scanf_s' : not enough arguments passed for format string
+  D:\PROJECT\Proj.c(247,13):
+  placeholders and their parameters expect 2 variadic arguments, but 1 were provided
+  D:\PROJECT\Proj.c(247,13):
+  the missing variadic argument 2 is required by format string '%c'
+  D:\PROJECT\Proj.c(247,13):
+  this argument is used as a buffer size
+  
+D:\PROJECT\Proj.c(280,17): warning C4473: 'scanf_s' : not enough arguments passed for format string
+  D:\PROJECT\Proj.c(280,17):
+  placeholders and their parameters expect 2 variadic arguments, but 1 were provided
+  D:\PROJECT\Proj.c(280,17):
+  the missing variadic argument 2 is required by format string '%s'
+  D:\PROJECT\Proj.c(280,17):
+  this argument is used as a buffer size
+  
+  source.c
+D:\PROJECT\pr1\source.c(40,21): warning C4473: 'scanf_s' : not enough arguments passed for format string
+  D:\PROJECT\pr1\source.c(40,21):
+  placeholders and their parameters expect 2 variadic arguments, but 1 were provided
+  D:\PROJECT\pr1\source.c(40,21):
+  the missing variadic argument 2 is required by format string '%s'
+  D:\PROJECT\pr1\source.c(40,21):
+  this argument is used as a buffer size
+  
+D:\PROJECT\pr1\source.c(66,21): warning C4473: 'scanf_s' : not enough arguments passed for format string
+  D:\PROJECT\pr1\source.c(66,21):
+  placeholders and their parameters expect 2 variadic arguments, but 1 were provided
+  D:\PROJECT\pr1\source.c(66,21):
+  the missing variadic argument 2 is required by format string '%s'
+  D:\PROJECT\pr1\source.c(66,21):
+  this argument is used as a buffer size
+  
+D:\PROJECT\pr1\source.c(92,21): warning C4473: 'scanf_s' : not enough arguments passed for format string
+  D:\PROJECT\pr1\source.c(92,21):
+  placeholders and their parameters expect 2 variadic arguments, but 1 were provided
+  D:\PROJECT\pr1\source.c(92,21):
+  the missing variadic argument 2 is required by format string '%s'
+  D:\PROJECT\pr1\source.c(92,21):
+  this argument is used as a buffer size
+  
+D:\PROJECT\pr1\source.c(49,17): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\PROJECT\pr1\source.c(52,17): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\PROJECT\pr1\source.c(55,17): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\PROJECT\pr1\source.c(59,17): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\PROJECT\pr1\source.c(75,17): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\PROJECT\pr1\source.c(78,17): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\PROJECT\pr1\source.c(81,17): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\PROJECT\pr1\source.c(85,17): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\PROJECT\pr1\source.c(101,17): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\PROJECT\pr1\source.c(104,17): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\PROJECT\pr1\source.c(107,17): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\PROJECT\pr1\source.c(111,17): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\PROJECT\pr1\source.c(172,18): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\PROJECT\pr1\source.c(218,13): warning C4473: 'scanf_s' : not enough arguments passed for format string
+  D:\PROJECT\pr1\source.c(218,13):
+  placeholders and their parameters expect 2 variadic arguments, but 1 were provided
+  D:\PROJECT\pr1\source.c(218,13):
+  the missing variadic argument 2 is required by format string '%c'
+  D:\PROJECT\pr1\source.c(218,13):
+  this argument is used as a buffer size
+  
+D:\PROJECT\pr1\source.c(250,13): warning C4473: 'scanf_s' : not enough arguments passed for format string
+  D:\PROJECT\pr1\source.c(250,13):
+  placeholders and their parameters expect 2 variadic arguments, but 1 were provided
+  D:\PROJECT\pr1\source.c(250,13):
+  the missing variadic argument 2 is required by format string '%c'
+  D:\PROJECT\pr1\source.c(250,13):
+  this argument is used as a buffer size
+  
+D:\PROJECT\pr1\source.c(285,17): warning C4473: 'scanf_s' : not enough arguments passed for format string
+  D:\PROJECT\pr1\source.c(285,17):
+  placeholders and their parameters expect 2 variadic arguments, but 1 were provided
+  D:\PROJECT\pr1\source.c(285,17):
+  the missing variadic argument 2 is required by format string '%s'
+  D:\PROJECT\pr1\source.c(285,17):
+  this argument is used as a buffer size
+  
+  Generating Code...

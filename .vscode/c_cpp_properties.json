@@ -1,0 +1,22 @@
+{
+  "configurations": [
+    {
+      "name": "windows-gcc-x86",
+      "includePath": [
+        "${workspaceFolder}/**"
+      ],
+      "compilerPath": "D:/SOFTWARES/mingwcompiler/bin/gcc.exe",
+      "cStandard": "${default}",
+      "cppStandard": "${default}",
+      "intelliSenseMode": "windows-gcc-x86",
+      "compilerArgs": [
+        "-IC:\\msys64\\mingw64\\include\\gtk-3.0",
+        "-IC:\\msys64\\mingw64\\include\\pango-1.0",
+        "-IC:\\msys64\\mingw64\\include\\glib-2.0",
+        "-IC:\\msys64\\mingw64\\lib\\glib-2.0\\include",
+        "-LC:\\msys64\\mingw64\\lib"
+      ]
+    }
+  ],
+  "version": 4
+}

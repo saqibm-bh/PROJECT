@@ -1,0 +1,15 @@
+WELCOME TO PROJECT CIPHER
+
+This is a C language Project aimed at creating an encrypted data and also decrypting it. I created this program as an end-semester project in my First semester at NUST , Pakistan. 
+
+Feel free to let me know how can I improve this program @smahmood.bscs23seecs@seecs.edu.pk 
+
+
+
+HERE'S HOW TO RUN THIS PROGRAM: 
+
+1. First make sure the project file and the images / text file you want to encrypt are in same folder. Otherwise you'll have to copy the path to encrypt / decrypt them.
+
+2. Run the program .
+
+3. HURAAYYYYY !!!!  The file / image / text is encrypted or decrypted.
